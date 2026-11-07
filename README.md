@@ -1,4 +1,3 @@
-﻿# MindLens-AI-
 # MindLens AI 🌿
 ### An Offline AI-Powered Mental Wellness Companion
 
